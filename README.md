@@ -23,7 +23,22 @@ To load these dataset you can try:
 
 1. CRF
 
+论文和一些其他资料:
+
+> - McCallum, Andrew, and Wei Li. "Early results for named entity recognition with conditional random fields, feature induction and web-enhanced lexicons." (2003).
+
+> - [CRF for NER](https://www.dominodatalab.com/blog/named-entity-recognition-ner-challenges-and-model)
+> - [理解条件随机场](https://www.zhihu.com/question/35866596/answer/236886066)
+> - [条件随机场NER](https://zhuanlan.zhihu.com/p/119254570)
+
+
 2. BiLSTM
+
+论文和一些其他资料:
+
+> - Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets
+> - [NER using BiLSTM](https://towardsdatascience.com/named-entity-recognition-ner-using-keras-bidirectional-lstm-28cd3f301f54)
+> - 
 
 3. BERTs
 
